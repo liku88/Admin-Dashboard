@@ -1,0 +1,37 @@
+html{
+    height: 100%;
+}
+.navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.navbar .navbar-brand{
+    color: darkgrey;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+        color: chartreuse;
+    background-color: #080808;
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: chartreuse;
+}
+.sidebar{
+    margin-bottom: 50px;    
+}
+.main{
+    padding: 20px;
+}
+.placeholders{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.placeholder{
+    margin-bottom: 20px;
+}
+.placeholder img{
+    display: inline;
+    border-radius: 50%;
+}
+.text{
+    text-align: center;
+}
